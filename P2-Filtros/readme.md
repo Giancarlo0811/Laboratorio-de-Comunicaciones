@@ -1,3 +1,4 @@
+# Filtros
 En esta práctica se estudiaron distintos tipos de filtros como Pasa Bajo, Pasa Alto y Pasa
 Banda, tanto Chebyshev como los Butterworth.
 Se utilizó el Analizador de Espectros para analizar cada uno de los filtros, midiendo su ancho

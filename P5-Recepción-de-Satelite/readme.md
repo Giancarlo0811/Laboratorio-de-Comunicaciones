@@ -1,3 +1,4 @@
+# Recepción de satelite
 En la siguiente práctica de laboratorio, se tuvo como objetivo entender el procedimiento
 para poder alinear una antena satelital y poder observar su respuesta en el analizador de
 espectros. De esta manera, teniendo los datos de un satélite, se pudo alinear con más
